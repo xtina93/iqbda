@@ -1,0 +1,18 @@
+IQBDC '98
+May 5, 1998
+San Diego, CA
+Call for Participation
+
+In our continuing efforts to bring together QBASIC professionals from around the world, IQBDA is organizing IQBDC '98. The theme of the conference is "The Evils of Windows 95 and What Your Company Can Do About It." The site of the conference is at Jerry George's House, 123 Assembly Drive, San Diego, California.
+Schedule of Events
+Time    Place   Event
+8:30 - 9:00am   Dunkin Doughnuts    Breakfast
+9:15 - 10:00am  Triasic Room    Barry Basic on "What's New in QBASIC Development"
+10:00 - 10:15am     Jurasic Room    Coffee Break
+10:15 - 11:00am     Triasic Room    Larry Lisper on "QBASIC for Visual Basic Programmers"
+11:00 - 11:30am     Triasic Room    Blaise Pascal on "Why DOS is better than Windows"
+11:30 - 12:00 noon  Triasic Room    Perl Johnson on "QBASIC: the Perfect CGI Scripting Tool"
+12:00 - 1:30pm  Jurasic Room    Lunch
+1:30 - 2:00pm   Triasic Room    Ada Byron on "Making the switch back to DOS"
+2:00 - 2:30pm   Triasic Room    C. Syntax on "OS/2 as a Multi-Tasking QBASIC Platform"
+2:30 - 3:00pm   Triasic Room    Eunice Unix on "Where do we go from here?"
