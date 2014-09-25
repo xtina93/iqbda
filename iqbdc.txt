@@ -3,7 +3,11 @@ May 5, 1998
 San Diego, CA
 Call for Participation
 
-In our continuing efforts to bring together QBASIC professionals from around the world, IQBDA is organizing IQBDC '98. The theme of the conference is "The Evils of Windows 95 and What Your Company Can Do About It." The site of the conference is at Jerry George's House, 123 Assembly Drive, San Diego, California.
+In our continuing efforts to bring together QBASIC professionals from around
+the world, IQBDA is organizing IQBDC '98. The theme of the conference is 
+"The Evils of Windows 95 and What Your Company Can Do About It." 
+The site of the conference is at Jerry George's House, 123 Assembly Drive, 
+San Diego, California.
 Schedule of Events
 Time    Place   Event
 8:30 - 9:00am   Dunkin Doughnuts    Breakfast
