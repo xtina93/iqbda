@@ -28,19 +28,32 @@
           </li>
         </ul>   
       </div>
-     
-      <div id="page-title"><h1>Join IQBDA Today!</h1>  
-      <div id="content">     
-        <form action="http://is-dsb.fairfield.edu/is135/iqbda-signup.php" method="post">
-          <ul>
-            <li><label for="name-field">Name</label> <input type="text" id="name-field" name="name"></li> 
-            <li><label for="password-field">Password</label> <input type="password" id="password-field" name="pass"></li> 
-            <li><label for="pass2-field">Password(again)</label> <input type="password" id="pass2-field" name="pass2"></li> 
-            <li><label for="email">Email</label> <input type="email" id="email" name="Email"></li> 
-            <li><label for="photo">Photo</label> <input type="file" id="photo" name="photo"></li> 
-            <li><label for="address">Mailing Address</label> <input type="textarea" id="address" name="address"></li> 
-            </ul> 
-         </form> 
-            </div>     
-            </body>
-          </html>
+      
+      <div id="content"> 
+        <header id="page-title"><h1>Join IQBDA Today!</h1></header>  
+        <form action="http://is-dsb.fairfield.edu/is135/iqbda-signup.php" method="post"><br>
+          <label for="name-field">Name</label> <input type="text" id="name-field" name="name"> 
+          <label for="password-field">Password</label> <input type="password" id="password-field" name="pass"><br>
+          <label for="pass2-field">Password(again)</label> <input type="password" id="pass2-field" name="pass2"><br>
+          <label for="email">Email</label> <input type="email" id="email" name="Email"><br>
+          <label for="photo">Photo</label> <input type="file" id="photo" name="photo"><br>
+          <label for="address">Mailing Address</label><br>
+          <textarea id="address" name="address"></textarea><br>
+          <label>Do you plan to attend IQBDA '98?</label><br>
+          <input type="radio" name="iqbdc98" value="Y" id="iqbdc98-Y"><br>
+          <label for="iqbdc98-Y">Yes</label><br> 
+          <input type="radio" name="iqbdc98" value="N" id="iqbdc98-N"><br>
+          <label for="iqbdc98-N">No</label><br>
+          <label for="channel-field">How did you hear about us?</label><br>
+          <select id="channel-field" name="channel">
+            <option>Superbowl Ad</option> 
+            <option>News Article</option> 
+            <option>Email</option> 
+            <option>Flyover at the beach</option> 
+          </select> 
+          <input type="submit">
+        </form> 
+      </div>
+    </div> 
+  </body>
+</html>
