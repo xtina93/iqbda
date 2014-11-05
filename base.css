@@ -1,8 +1,54 @@
-#page-header h2 {
-  font-weight: bolder;
-  font-size: 1.5em; 
+body {
+  background-color: rgb(0,136,0);
+  margin:0;
+  padding:0;
+  font: 1em Veranda,Helvetica,Arial,sans-serif;
 }
 
+#page-wrapper {
+  width:960px;
+  background-color: white;
+  margin: 0 auto; /* tb lr */ 
+}
+
+#page-header, #content, #navbar {
+  padding: 0 1em; 
+}
+
+#page-header {
+  padding-top: 1em;
+  position: relative;  
+}
+
+#page-header img {
+  vertical-align: middle;
+}
+
+#page-header h1 {
+  font: bold italic 3em "Georgia", "Times",serif;
+  display: inline-block; 
+  margin:0;
+  vertical-align: middle;
+}
+
+#page-header h2 {
+  font: bolder italic 1.5em "Georgia", "Times", serif;  
+}
+
+#user-links {
+  position:absolute;
+  top: 10px; 
+  right: 15px; 
+}
+
+#user-links a {
+  color: darkgreen;
+  text-decoration: none; 
+}
+
+#user-links a:hover {
+  text-decoration: underline; 
+}
 #navbar {
   background-color: #333;
   padding-left: 1em; 
@@ -40,34 +86,20 @@ p {
   font: normal 1em "Veranda", "Helvetica", "Arial", sans-serif; 
 }   
 
-body {
-  background-color: rgb(0,136,0);
-  margin:0;
-  padding:0;
+th, td {
+  padding: 6px;
+}
+tr:nth-child(odd) {
+  background-color: #eee; 
 }
 
-#page-wrapper {
-  width:960px;
-  background-color: white;
-  margin: 0 auto; /* tb lr */ 
+label {
+  font-weight: bold;
+  display: block;
+  margin-top: 10px; 
 }
 
-#page-header, #content, #navbar {
-  padding: 0 1em; 
+input[type=radio] + label, input[type=checkbox] + label {
+  font-weight: normal;
+  display: inline;
 }
-
-#page-header {
-  padding-top: 1em; 
-}
-
-#page-header img {
-  vertical-align: middle;
-}
-
-#page-header h1 {
-  font: bold italic 3em "Georgia", "Times",serif;
-  display: inline-block; 
-  margin:0;
-  vertical-align: middle;
-}
-
